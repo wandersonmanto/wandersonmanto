@@ -7,15 +7,16 @@ Trabalhando a 12 anos com tecnologia da informação passei por todos os estági
 Competências que adquiri nessa jornada.
 
 Conhecimentos em Front End
-HTML, CSS
-JavaScript, TypeScript, ECMAScript, ES6+
-Git/GitHub
-React.js, Redux, React Native
-jQuery, Ajax
-Bootstrap, SASS, Gulp.js, LESS, Grunt.js, SMACSS, Parcel.js.
+- HTML, CSS
+- JavaScript, TypeScript, ECMAScript, ES6+
+- Git/GitHub
+- React.js, Redux, React Native
+- jQuery, Ajax
+- Bootstrap, SASS, Gulp.js, LESS, Grunt.js, SMACSS, Parcel.js.
 
 Conhecimentos em Back End
-Node.js e Express.
+
+- Node.js e Express.
 
 Considerações.
 Sou muito grato pela oportunidade de ter trabalhado e vivido em muitas áreas da Tecnologia da Informação, isso me possibilitou entender as dificuldades dos diversos tipos de usuários, de atendentes a diretores.
