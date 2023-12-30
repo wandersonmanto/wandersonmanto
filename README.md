@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 ### Muito prazer em ter você aqui, me chamo Wanderson Barbosa e esse texto fala um pouco sobre a minha trajetória profissional.
 
